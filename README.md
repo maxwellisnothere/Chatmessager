@@ -1,6 +1,10 @@
 # 💬 PHAM - Real-time MQTT Messenger
 > **แอปพลิเคชันแชทอัจฉริยะที่ขับเคลื่อนด้วยโปรโตคอล MQTT เชื่อมต่อรวดเร็วในระดับ Milliseconds**
 
+เข้าไปคุยกันเองได้ ทดสอบว่าได้จริง
+https://chatmessager-9ewi.vercel.app
+
+
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MQTT](https://img.shields.io/badge/MQTT-3C3C3C?style=for-the-badge&logo=mqtt&logoColor=white)
